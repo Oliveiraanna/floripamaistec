@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.exe
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.deps.json
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.runtimeconfig.json
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfo.cs
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\refint\Sequência de Fibonacci.dll
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.genruntimeconfig.cache
+C:\Users\User\source\repos\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\ref\Sequência de Fibonacci.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.exe
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.deps.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.runtimeconfig.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfo.cs
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\refint\Sequência de Fibonacci.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.genruntimeconfig.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\ref\Sequência de Fibonacci.dll

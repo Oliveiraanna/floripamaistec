@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfo.cs
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.exe
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.deps.json
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.runtimeconfig.json
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.dll
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.dll
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\refint\Buscador de números primos.dll
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.genruntimeconfig.cache
+C:\Users\User\source\repos\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\ref\Buscador de números primos.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfo.cs
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\refint\Buscador de números primos.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.exe
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.deps.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.runtimeconfig.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.genruntimeconfig.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\ref\Buscador de números primos.dll

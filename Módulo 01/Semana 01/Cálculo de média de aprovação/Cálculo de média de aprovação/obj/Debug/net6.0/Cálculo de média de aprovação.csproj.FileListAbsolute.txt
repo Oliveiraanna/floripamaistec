@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.exe
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.deps.json
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.runtimeconfig.json
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.dll
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.pdb
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.AssemblyInfo.cs
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.dll
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\refint\Cálculo de média de aprovação.dll
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.pdb
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.genruntimeconfig.cache
+C:\Users\User\source\repos\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\ref\Cálculo de média de aprovação.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.exe
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.deps.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.runtimeconfig.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\bin\Debug\net6.0\Cálculo de média de aprovação.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.AssemblyInfo.cs
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\refint\Cálculo de média de aprovação.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\Cálculo de média de aprovação.genruntimeconfig.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Cálculo de média de aprovação\Cálculo de média de aprovação\obj\Debug\net6.0\ref\Cálculo de média de aprovação.dll

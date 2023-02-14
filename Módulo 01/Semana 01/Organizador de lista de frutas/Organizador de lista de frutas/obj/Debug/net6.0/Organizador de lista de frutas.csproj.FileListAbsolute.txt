@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.exe
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.deps.json
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.runtimeconfig.json
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.dll
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.pdb
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.AssemblyInfo.cs
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.dll
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\refint\Organizador de lista de frutas.dll
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.pdb
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.genruntimeconfig.cache
+C:\Users\User\source\repos\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\ref\Organizador de lista de frutas.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.AssemblyInfo.cs
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\refint\Organizador de lista de frutas.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.exe
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.deps.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.runtimeconfig.json
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.dll
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\bin\Debug\net6.0\Organizador de lista de frutas.pdb
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\Organizador de lista de frutas.genruntimeconfig.cache
+C:\Users\User\Desktop\Exercicios\Semana 1\Organizador de lista de frutas\Organizador de lista de frutas\obj\Debug\net6.0\ref\Organizador de lista de frutas.dll

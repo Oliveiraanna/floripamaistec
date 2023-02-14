@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de média de aprovação", "Cálculo de média de aprovação\Cálculo de média de aprovação.csproj", "{AC15549C-DC30-48C6-B19A-4293C5EE4CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC15549C-DC30-48C6-B19A-4293C5EE4CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC15549C-DC30-48C6-B19A-4293C5EE4CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC15549C-DC30-48C6-B19A-4293C5EE4CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC15549C-DC30-48C6-B19A-4293C5EE4CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98962E52-BD1A-4246-8142-EE18B345F716}
+	EndGlobalSection
+EndGlobal
