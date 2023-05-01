@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\M1S03\M1S03\bin\Debug\net6.0\M1S03.exe
+C:\Users\User\source\repos\M1S03\M1S03\bin\Debug\net6.0\M1S03.deps.json
+C:\Users\User\source\repos\M1S03\M1S03\bin\Debug\net6.0\M1S03.runtimeconfig.json
+C:\Users\User\source\repos\M1S03\M1S03\bin\Debug\net6.0\M1S03.dll
+C:\Users\User\source\repos\M1S03\M1S03\bin\Debug\net6.0\M1S03.pdb
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.AssemblyInfo.cs
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.dll
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\refint\M1S03.dll
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.pdb
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\M1S03.genruntimeconfig.cache
+C:\Users\User\source\repos\M1S03\M1S03\obj\Debug\net6.0\ref\M1S03.dll
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\bin\Debug\net6.0\M1S03.exe
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\bin\Debug\net6.0\M1S03.deps.json
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\bin\Debug\net6.0\M1S03.runtimeconfig.json
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\bin\Debug\net6.0\M1S03.dll
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\bin\Debug\net6.0\M1S03.pdb
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.AssemblyInfo.cs
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.dll
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\refint\M1S03.dll
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.pdb
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\M1S03.genruntimeconfig.cache
+C:\Users\User\Desktop\Exercicios\github\floripamaistec\Módulo 01\Semana 03\M1S03 - Exercicio 1\obj\Debug\net6.0\ref\M1S03.dll
